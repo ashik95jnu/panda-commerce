@@ -21,3 +21,15 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: #ff136f;
+}
+.cat2{
+    background-color: rebeccapurple;
+}
+.cat3{background-color: blue;
+    background-color: salmon;
+}
+.cat1,.cat2, .cat3{
+    padding: 10px 30px;
+}
