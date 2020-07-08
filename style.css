@@ -27,9 +27,21 @@
 .cat2{
     background-color: rebeccapurple;
 }
-.cat3{background-color: blue;
-    background-color: salmon;
+.cat3{
+    background-color:blue;
+
 }
 .cat1,.cat2, .cat3{
     padding: 10px 30px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
